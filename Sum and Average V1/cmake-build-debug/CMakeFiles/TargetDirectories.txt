@@ -1,0 +1,3 @@
+C:/Users/aminm/Projects/Sum and Average/cmake-build-debug/CMakeFiles/Sum_and_Average.dir
+C:/Users/aminm/Projects/Sum and Average/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aminm/Projects/Sum and Average/cmake-build-debug/CMakeFiles/rebuild_cache.dir
